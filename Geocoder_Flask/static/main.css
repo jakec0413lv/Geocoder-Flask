@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://img.huffingtonpost.com/asset/5a2e58351e00003b000c31ca.jpeg?cache=cYgkYBLW4I&ops=1200_630");
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+
+table{
+    margin: 20px auto;
+}
+
+h1, h3, table, form{
+    background-color: rgba(0,0,0, .7);
+    border-radius: 5px;
+    padding: 15px;
+    width: auto;
+}
+
+thead, th{
+    text-align: center;
+    vertical-align: middle;
+}
